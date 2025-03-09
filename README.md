@@ -17,6 +17,8 @@ Portafolio de Evidencias para la materia de Inteligencia Artificial Enero - Juni
 - [Intro to Machine Learning](./Certificados/Kaggle/Intro%20to%20Machine%20Learning.pdf)
 - [Pandas](./Certificados/Kaggle/Pandas.pdf)
 - [Intermediate Machine Learning](./Certificados/Kaggle/Intermediate%20Machine%20Learning.pdf)
+- [Data Visualization](./Certificados/Kaggle/Data%20Visualization.pdf)
+- [Feature Engineering](./Certificados/Kaggle/Feature%20Engineering.pdf)
 
 ### Otros
 - [IBM Python for Data Science](./Certificados/Otros/IBM%20Python%20for%20Data%20Science.pdf)
