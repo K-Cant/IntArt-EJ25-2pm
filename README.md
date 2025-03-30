@@ -20,6 +20,7 @@ Portafolio de Evidencias para la materia de Inteligencia Artificial Enero - Juni
 - [Data Visualization](./Certificados/Kaggle/Data%20Visualization.pdf)
 - [Feature Engineering](./Certificados/Kaggle/Feature%20Engineering.pdf)
 - [Intro to SQL](./Certificados/Kaggle/Intro%20to%20SQL.pdf)
+- [Advanced SQL](./Certificados/Kaggle/Advanced%20SQL.pdf)
 
 ### Otros
 - [IBM Python for Data Science](./Certificados/Otros/IBM%20Python%20for%20Data%20Science.pdf)
