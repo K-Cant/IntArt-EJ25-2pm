@@ -22,6 +22,13 @@ Portafolio de Evidencias para la materia de Inteligencia Artificial Enero - Juni
 - [Intro to SQL](./Certificados/Kaggle/Intro%20to%20SQL.pdf)
 - [Advanced SQL](./Certificados/Kaggle/Advanced%20SQL.pdf)
 - [Intro to Deep Learning](./Certificados/Kaggle/Intro%20to%20Deep%20Learning.pdf)
+- [Computer Vision](./Certificados/Kaggle/Computer%20Vision.pdf)
+- [Time Series](./Certificados/Kaggle/Time%20Series.pdf)
+- [Data Cleaning](./Certificados/Kaggle/Data%20Cleaning.pdf)
+- [Intro to AI Ethics](./Certificados/Kaggle/Intro%20to%20AI%20Ethics.pdf)
+- [Geospatial Analysis](./Certificados/Kaggle/Geospatial%20Analysis.pdf)
+- [Machine Learning Explainability](./Certificados/Kaggle/Machine%20Learning%20Explainability.pdf)
+- [Intro to Game AI and Reinforcement Learning](./Certificados/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.pdf)
 
 ### Otros
 - [IBM Python for Data Science](./Certificados/Otros/IBM%20Python%20for%20Data%20Science.pdf)
